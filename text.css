@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+   margin: 0;
+   padding: 0;
+  }
+h1{
+  margin-left: 25%;
+  text-decoration-line: overline underline;
+  text-decoration-color: red;
+  }
+.navbar{
+  background: black;
+  background-blend-mode: darken;
+  background-size:contain;
+}
+.navbar img{
+  margin-left: 250px;
+  margin-right: auto;
+}
+#Uchiha{
+  color:white;
+  text-decoration: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
+  text-align: center;
+}
+body nav{
+  background: black;
+  background-blend-mode: darken;
+  background-size:contain;
+}
